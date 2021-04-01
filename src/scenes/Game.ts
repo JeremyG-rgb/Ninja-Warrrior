@@ -79,7 +79,7 @@ export class Game extends AScene {
 
         gsap.to(this._ninja, {duration:3, x : Main.SCREEN_WIDTH / 4, ease:Circ.easeOut});
        
-        this.spawnEnemy();
+        //this.spawnEnemy();
 
     }
 
@@ -107,7 +107,7 @@ export class Game extends AScene {
 
 }
 
-public spawnEnemy() {
+/*public spawnEnemy() {
     setInterval(() => {
         let enemy = AnimatedSprite.fromFrames(["ChampiWalk1.png", "ChampiWalk2.png", "ChampiWalk3.png", "ChampiWalk4.png"]);
         enemy.x=Main.SCREEN_WIDTH+100;
@@ -121,3 +121,4 @@ public spawnEnemy() {
         this._enemy.push(enemy);
     }, 3000);
 }
+*/

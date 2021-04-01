@@ -1,0 +1,179 @@
+{"frames": {
+
+"ChampiAttack1.png":
+{
+	"frame": {"x":1,"y":772,"w":190,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":190,"h":190},
+	"sourceSize": {"w":190,"h":190}
+},
+"ChampiAttack2.png":
+{
+	"frame": {"x":193,"y":193,"w":190,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":190,"h":190},
+	"sourceSize": {"w":190,"h":190}
+},
+"ChampiAttack3.png":
+{
+	"frame": {"x":193,"y":385,"w":190,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":190,"h":190},
+	"sourceSize": {"w":190,"h":190}
+},
+"ChampiAttack4.png":
+{
+	"frame": {"x":193,"y":577,"w":190,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":190,"h":190},
+	"sourceSize": {"w":190,"h":190}
+},
+"ChampiDeath1.png":
+{
+	"frame": {"x":193,"y":769,"w":190,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":190,"h":190},
+	"sourceSize": {"w":190,"h":190}
+},
+"ChampiDeath2.png":
+{
+	"frame": {"x":385,"y":193,"w":190,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":190,"h":190},
+	"sourceSize": {"w":190,"h":190}
+},
+"ChampiDeath3.png":
+{
+	"frame": {"x":577,"y":193,"w":190,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":190,"h":190},
+	"sourceSize": {"w":190,"h":190}
+},
+"ChampiDeath4.png":
+{
+	"frame": {"x":769,"y":193,"w":190,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":190,"h":190},
+	"sourceSize": {"w":190,"h":190}
+},
+"ChampiHurt1.png":
+{
+	"frame": {"x":1,"y":1,"w":191,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":191,"h":190},
+	"sourceSize": {"w":191,"h":190}
+},
+"ChampiHurt2.png":
+{
+	"frame": {"x":194,"y":1,"w":191,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":191,"h":190},
+	"sourceSize": {"w":191,"h":190}
+},
+"ChampiHurt3.png":
+{
+	"frame": {"x":387,"y":1,"w":191,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":191,"h":190},
+	"sourceSize": {"w":191,"h":190}
+},
+"ChampiHurt4.png":
+{
+	"frame": {"x":580,"y":1,"w":191,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":191,"h":190},
+	"sourceSize": {"w":191,"h":190}
+},
+"ChampiIdle1.png":
+{
+	"frame": {"x":385,"y":385,"w":190,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":190,"h":190},
+	"sourceSize": {"w":190,"h":190}
+},
+"ChampiIdle2.png":
+{
+	"frame": {"x":385,"y":577,"w":190,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":190,"h":190},
+	"sourceSize": {"w":190,"h":190}
+},
+"ChampiIdle3.png":
+{
+	"frame": {"x":385,"y":769,"w":190,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":190,"h":190},
+	"sourceSize": {"w":190,"h":190}
+},
+"ChampiIdle4.png":
+{
+	"frame": {"x":577,"y":385,"w":190,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":190,"h":190},
+	"sourceSize": {"w":190,"h":190}
+},
+"ChampiWalk1.png":
+{
+	"frame": {"x":773,"y":1,"w":191,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":191,"h":190},
+	"sourceSize": {"w":191,"h":190}
+},
+"ChampiWalk2.png":
+{
+	"frame": {"x":1,"y":193,"w":191,"h":190},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":191,"h":190},
+	"sourceSize": {"w":191,"h":190}
+},
+"ChampiWalk3.png":
+{
+	"frame": {"x":1,"y":386,"w":191,"h":190},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":191,"h":190},
+	"sourceSize": {"w":191,"h":190}
+},
+"ChampiWalk4.png":
+{
+	"frame": {"x":1,"y":579,"w":191,"h":190},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":191,"h":190},
+	"sourceSize": {"w":191,"h":190}
+}},
+"animations": {
+	"ChampiAttack": ["ChampiAttack1.png","ChampiAttack2.png","ChampiAttack3.png","ChampiAttack4.png"],
+	"ChampiDeath": ["ChampiDeath1.png","ChampiDeath2.png","ChampiDeath3.png","ChampiDeath4.png"],
+	"ChampiHurt": ["ChampiHurt1.png","ChampiHurt2.png","ChampiHurt3.png","ChampiHurt4.png"],
+	"ChampiIdle": ["ChampiIdle1.png","ChampiIdle2.png","ChampiIdle3.png","ChampiIdle4.png"],
+	"ChampiWalk": ["ChampiWalk1.png","ChampiWalk2.png","ChampiWalk3.png","ChampiWalk4.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "sprites.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:b510a074dea69209c5f6fcaf7f12749a:b167add70de4a23d3f77159c0f4f68ea:1eabdf11f75e3a4fe3147baf7b5be24b$"
+}
+}

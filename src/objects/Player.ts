@@ -20,13 +20,13 @@ export class Player extends AObject {
         super(texture);
     }
 
-    function DoJump (params:type) {
+    /*function DoJump (params:type) {
         stop TreeWalker
         do DoJump
         stop DoJump
         do TreeWalker
         
-    }
+    }*/
 }
 
 export enum Direction {

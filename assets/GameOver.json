@@ -1,0 +1,20 @@
+{"frames": {
+
+"ame-over-sprite-transparent-11562914688yeq1vflitl.png":
+{
+	"frame": {"x":1,"y":1,"w":840,"h":859},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":840,"h":859},
+	"sourceSize": {"w":840,"h":859}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "GameOver.png",
+	"format": "RGBA8888",
+	"size": {"w":842,"h":861},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:379d63fbf1ad9554016c2fc9c7b7ae0d:e3bb66ce49ff7f954156ec89a12fe626:8a7cac76dd929c9c71ff9bdae3263428$"
+}
+}

@@ -1,0 +1,20 @@
+{"frames": {
+
+"Paysage.png":
+{
+	"frame": {"x":1,"y":1,"w":408,"h":318},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":408,"h":318},
+	"sourceSize": {"w":408,"h":318}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "paysage.png",
+	"format": "RGBA8888",
+	"size": {"w":410,"h":320},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:763d9f0691b0c8c8ab9065a9f7bbeaba:9cb96e0dbc3bb43b5d724419f352be89:1489d2aafae73d0b92d12aa6b7f0cec0$"
+}
+}
